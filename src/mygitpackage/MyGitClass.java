@@ -14,6 +14,8 @@ public class MyGitClass {
 		
 		System.out.println("sonuncu kodum");
 		System.out.println("uzak sonuncu kodum");
+		System.out.println("17.satir uzak sunucu");
+		
 
 	}
 
